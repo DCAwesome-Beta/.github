@@ -122,6 +122,6 @@ A decentralized app (dApp) tailored for retail investors, enabling automated Dol
    - **Cross-Chain Settlement:** Using the CCTP bridge, funds are transferred and settled on the BNB Chain.
 
 
-Pitch Deck:
+Pitch Deck: [View] (https://www.canva.com/design/DAGVeR7S66g/Tie5apeEVm_mXkD3WeUP4w/edit?utm_content=DAGVeR7S66g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Demo Video:
 Demo Link:
