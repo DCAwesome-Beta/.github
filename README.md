@@ -6,7 +6,7 @@ DCAwesome is a Defi-protocol that automates Dollar Cost Averaging (DCA) . It all
 
 #### User Workflow
 
-- Alice created a wallet with DCAwesome.
+- Alice creates a wallet with DCAwesome.
 - Alice sets a strategy of DCA-in that every month on the 5th, swap all the USDC in my wallet to ETH.
 - Alice also sets a strategy of DCA-out that when ETH reaches 10k, sell all my assets and send me as USDC on BNB chain.
 - Alice keeps sending 5 USDC or any arbitrary amount she has,anytime to her wallet address throughout the month.
