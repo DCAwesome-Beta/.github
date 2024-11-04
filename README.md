@@ -26,9 +26,9 @@ DCAwesome is a Defi-protocol that automates Dollar Cost Averaging (DCA) . It all
 
 **Differentiation:** DCAwesome is an integrated investment management dapp with both DCA-in and DCA-out along with AML protection with compliance engine.
 
-**Technical Complexity:** Wormhole integration by combining CCTP's cross-chain messaging with real-time price oracles from chainlink, an automated strategy execution, and a unique multi-chain token custody system that leverages both native USDC token transfers and built in compliance checks with compliance engine. Wormhole's VAA (Verified Action Approval) is planned on milestone 2.
+**Technical Complexity:** Wormhole integration by combining CCTP's cross-chain messaging with real-time price oracles from chainlink, an automated strategy execution, and a unique multi-chain token custody system that leverages both native USDC token transfers and built in compliance checks with [compliance engine](https://github.com/DCAwesome-Beta/contracts/blob/master/img/compliance.jpeg). Wormhole's VAA (Verified Action Approval) is planned on milestone 2.
 
-**Quality of Code and Architecture:** The Architecture can be found here.
+**Quality of Code and Architecture:** The Architecture can be found [here](https://github.com/DCAwesome-Beta/contracts/blob/master/img/architecture.jpeg).
 
 **Use of Wormhole Features:** DCAwesome uses wormhole for the cross-chain transfers for DCAin to the desired chain. Besides, the dapp is built to be a widget with wormhole connect. VAA to be implemented.
 
